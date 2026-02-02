@@ -1,1 +1,2 @@
-# PROXY
+npm install
+npm start
